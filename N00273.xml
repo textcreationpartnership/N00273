@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="announcement">
-            <pb facs="tcp:000348_0000_0FA4AD2A4318D4D8"/>
-            <pb facs="tcp:000348_0001_0FA4AD2AEE99EA98" rendition="simple:additions"/>
+            <pb facs="unknown:000348_0000_0FA4AD2A4318D4D8"/>
+            <pb facs="unknown:000348_0001_0FA4AD2AEE99EA98"
+                rendition="simple:additions"/>
             <head>BY HIS MAJESTIES Commissioners, For Examining and Enquiring into the Claims and Titles to the Kings Province OR Narraganset Countrey.</head>
             <p>WHereas by a Commission from His Majesty, bearing Date the 7<hi>
                   <hi rend="sup">th.</hi>
@@ -125,7 +126,8 @@
             <p>
                <hi>By Order of His MAJESTIES Commissioners,</hi>
             </p>
-            <pb facs="tcp:000348_0002_0FA4AD2BB6E851F8" rendition="simple:additions"/>
+            <pb facs="unknown:000348_0002_0FA4AD2BB6E851F8"
+                rendition="simple:additions"/>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
